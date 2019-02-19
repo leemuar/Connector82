@@ -1,6 +1,9 @@
 ﻿// Коннектор: удобный HTTP-клиент для 1С:Предприятие 8
 //
-// Copyright 2017-2019 Vladimir Bondarevskiy
+// https://github.com/leemuar/Connector
+//
+// Форк библиотеки Владимира Бондаревского (https://github.com/vbondarevsky/Connector),
+// добавляющий совместимость с более ранними версиями платформы
 //
 //   Licensed under the Apache License, Version 2.0 (the "License");
 //   you may not use this file except in compliance with the License.
@@ -14,12 +17,6 @@
 //   See the License for the specific language governing permissions and
 //   limitations under the License.
 //
-//
-// URL:    https://github.com/vbondarevsky/Connector
-// e-mail: vbondarevsky@gmail.com
-// Версия: 1.1.6
-//
-// Требования: платформа 1С версии 8.3.10 и выше
 
 #Область ПрограммныйИнтерфейс
 
